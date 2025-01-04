@@ -1,4 +1,3 @@
-#2b)
 
 <!DOCTYPE html>
 <html lang="en">
@@ -130,21 +129,5 @@
                 <td>OS</td>
                 <td>MEFA</td>
             </tr>
-        </table>
-        <h2>Faculty</h2>
-        <div class="teachers">
-            <ul><strong>MEFA</strong>  Managerial Economics and Financial Analysis <strong>Dr.K.Pavan</strong></ul>
-            <ul><strong>SE</strong>  Software Engineering <strong>Ms.Ch.Sai Lalitha</strong></ul>
-            <ul><strong>ADSAA</strong>  Advanced Data Structures & Algorithm Analysis <strong>Mr.M.Durga Satish</strong></ul>
-            <ul><strong>OS</strong>  Operating Systems <strong>Mr.M.V.Durga Rao</strong></ul>
-            <ul><strong>P&S</strong>  Probability & Statistics <strong>Mrs.K.G.R.Deepthi</strong></ul>
-            <ul><strong>FSD LAB</strong>  Full Stack development 1<strong>Mrs.B.V.Prasanthi</strong></ul>
-            <ul><strong>OS LAB</strong> Operating systems LAB<strong>Mrs.A.Revathi</strong></ul>
-            <ul><strong>DTI</strong> Design Thinking & Innovation<strong>Dr.Abhinav Dayal,Mrs.P.Krishna Madhuri</strong></ul>
-            <ul><strong>ADSAA LAB</strong>Advanced Data Structures & Algorithm Analysis Lab<strong>Mr.M.Durga Satish</strong></ul>
-            <ul><stong>CRT</stong> Campus Recruitment training<strong>Mr.J.Muni Partha</strong></ul>
-        </div>
-            </tr>
-        </table>
     </body>
 </html>
